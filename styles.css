@@ -1,0 +1,9 @@
+body {
+    margin-top: 70px;
+    color: white;
+    background-color: #333;
+}
+
+#gramsOutput,#kgOutput,#ozOutput {
+    font-size: 15px;
+}
